@@ -1,0 +1,13 @@
+{
+  "name": "react-static-plugin-styled-components",
+  "version": "1.0.0",
+  "description": "A React-Static plugin that adds CSS-in-JS/SSR support for styled-components",
+  "main": "index.js",
+  "repository": "https://github.com/nozzle/react-static-plugin-styled-components.git",
+  "author": "Tanner Linsley <tannerlinsley@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "styled-components": "^3.3.3"
+  }
+}
