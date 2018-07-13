@@ -1,5 +1,5 @@
 import React from "react";
-import { ServerStyleSheet } from "styled-components";
+import { ServerStyleSheet, StyleSheetManager } from "styled-components";
 
 // Use beforeRenderToHtml to extract the styles into the page meta
 export const beforeRenderToComponent = (app, { meta }) => {
