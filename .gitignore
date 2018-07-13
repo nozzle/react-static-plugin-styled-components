@@ -1,3 +1,4 @@
-
 .history
+lib.js
 node_modules
+*.log
