@@ -3,7 +3,7 @@ import { ServerStyleSheet, StyleSheetManager } from "styled-components";
 
 export default options => ({
   // Use beforeRenderToHtml to extract the styles into the page meta
-  beforeRenderToComponent: (App, { meta }) => {
+  beforeRenderToElement: (App, { meta }) => {
     meta.styleComponentsSheet = new ServerStyleSheet();
     return props => (
       <StyleSheetManager sheet={meta.styleComponentsSheet.instance}>
