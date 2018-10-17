@@ -2,7 +2,7 @@
 
 ## react-static-plugin-styled-components
 
-A [React-Static](https://react-static.js.org) plugin that adds CSS-in-JS/SSR support for [styled-components](https://github.com/emotion-js/emotion)
+A [React-Static](https://react-static.js.org) plugin that adds CSS-in-JS/SSR support for [styled-components](https://github.com/styled-components/styled-components)
 
 ## Installation
 
